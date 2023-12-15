@@ -11,12 +11,11 @@ body,html{
     background-color: pink;
 }
 .contenido{
-    width: 60%;
-    height: 60%;
+    width: 80%;
+    height: 80%;
     border: 1px black solid;
     display: flex;
-    flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    
+    flex-wrap: wrap;
 }
