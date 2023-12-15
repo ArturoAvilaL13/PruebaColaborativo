@@ -1,4 +1,25 @@
 
+*{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+}
+
+button{
+    width: 100px;
+    height: 20px;
+    border: 1px white solid;
+    background-color: darkorchid;
+    cursor: pointer;
+}
 .texto5{
     font-family:  'Helvetica';
     color: purple;
