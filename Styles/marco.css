@@ -1,0 +1,32 @@
+#bod{
+background-color: aqua;
+margin: 0;
+
+
+}
+    #saludo{
+        color: orangered;
+        background-color: #9daef5;
+        right:30px;
+    }
+
+        #par{
+            color: orangered;
+        }
+            #set{
+                color: black;
+                background-color: greenyellow;
+                -webkit-border-radius: 14px;
+                -moz-border-radius: 14px;
+                border-radius: 14px;
+                text-shadow: 3px 2px 1px #9daef5;
+                -webkit-box-shadow: 6px 5px 24px #666666;
+                -moz-box-shadow: 6px 5px 24px #666666;
+                box-shadow: 6px 5px 24px #666666;
+                font-family: Arial;
+                font-size: 10px;
+                padding: 10px;
+                text-decoration: none;
+                
+            }   
+                       
