@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+}
+.contenido{
+    width: 60%;
+    height: 60%;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
