@@ -1,0 +1,10 @@
+#liz {
+    width: 70px;
+    height: 70px;
+    background-image: url('/img/pug.jpeg');
+    background-size: cover; 
+  }
+  
+  #liz p {
+    color: purple;
+  }
