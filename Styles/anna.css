@@ -1,0 +1,11 @@
+#anna {
+    width: 70px;
+    height: 70px;
+    background-image: url("../img/gato.jpg");
+    background-size: cover;
+}
+
+#anna p {
+
+    color:rgb(126, 66, 182);
+}
